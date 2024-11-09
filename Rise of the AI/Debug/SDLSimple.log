@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\limje\source\repos\Rise of the AI Tester edited\Entity.h(119,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\limje\source\repos\Rise of the AI Tester edited\Entity.h(120,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\limje\source\repos\Rise of the AI Tester edited\main.cpp(65,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\limje\source\repos\Rise of the AI Tester edited\main.cpp(131,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\limje\source\repos\Rise of the AI Tester edited\main.cpp(409,141): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\limje\source\repos\Rise of the AI Tester edited\main.cpp(412,142): warning C4305: 'argument': truncation from 'double' to 'float'
+  SDLSimple.vcxproj -> C:\Users\limje\source\repos\Rise of the AI Tester edited\Debug\SDLSimple.exe
