@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\CS3113\Platformer\Platformer\Entity.h(121,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\CS3113\Platformer\Platformer\Entity.h(122,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\CS3113\Platformer\Platformer\main.cpp(300,94): warning C4305: 'argument': truncation from 'double' to 'float'
+  Platformer.vcxproj -> C:\CS3113\Platformer\Debug\Platformer.exe

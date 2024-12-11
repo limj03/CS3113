@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SDLSimple.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Map.cpp
+C:\Users\limje\source\repos\Rise of the AI\Map.cpp(103,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\limje\source\repos\Rise of the AI\Map.cpp(104,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  SDLSimple.vcxproj -> C:\Users\limje\source\repos\Rise of the AI\Debug\Rise of the AI.exe

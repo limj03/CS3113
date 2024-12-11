@@ -1,0 +1,9 @@
+C:\Users\limje\source\repos\SDLSimple\Debug\SDLSimple.exe
+C:\Users\limje\source\repos\10-4-24 classwork GAME PROG\Debug\SDLSimple.exe
+C:\Users\limje\source\repos\10-11-24 classwork GAME PROG\Debug\SDLSimple.exe
+C:\Users\limje\source\repos\10-18-24 classwork GAME PROG\Debug\SDLSimple.exe
+C:\Users\limje\source\repos\Rise of the AI Tester\Debug\SDLSimple.exe
+C:\Users\limje\source\repos\Rise of the AI Tester edited\Debug\SDLSimple.exe
+C:\Users\limje\source\repos\Rise of the AI\Debug\Rise of the AI.exe
+C:\Users\limje\source\repos\Platformer\Debug\Rise of the AI.exe
+C:\Users\limje\Desktop\_repos\CS3113\Platformer\Debug\Rise of the AI.exe

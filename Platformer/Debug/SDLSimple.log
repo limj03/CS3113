@@ -1,0 +1,39 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SDLSimple.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Entity.cpp
+C:\Users\limje\Desktop\_repos\CS3113\Platformer\Entity.h(119,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\limje\Desktop\_repos\CS3113\Platformer\Entity.h(120,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  Level1.cpp
+C:\Users\limje\Desktop\_repos\CS3113\Platformer\Entity.h(119,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\limje\Desktop\_repos\CS3113\Platformer\Entity.h(120,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  Level2.cpp
+C:\Users\limje\Desktop\_repos\CS3113\Platformer\Entity.h(119,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\limje\Desktop\_repos\CS3113\Platformer\Entity.h(120,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  Level3.cpp
+C:\Users\limje\Desktop\_repos\CS3113\Platformer\Entity.h(119,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\limje\Desktop\_repos\CS3113\Platformer\Entity.h(120,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  main.cpp
+C:\Users\limje\Desktop\_repos\CS3113\Platformer\Entity.h(119,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\limje\Desktop\_repos\CS3113\Platformer\Entity.h(120,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\limje\Desktop\_repos\CS3113\Platformer\main.cpp(135,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\limje\Desktop\_repos\CS3113\Platformer\main.cpp(380,23): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\limje\Desktop\_repos\CS3113\Platformer\main.cpp(399,23): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\limje\Desktop\_repos\CS3113\Platformer\main.cpp(458,171): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\limje\Desktop\_repos\CS3113\Platformer\main.cpp(460,157): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\limje\Desktop\_repos\CS3113\Platformer\main.cpp(463,132): warning C4305: 'argument': truncation from 'double' to 'float'
+  Map.cpp
+C:\Users\limje\Desktop\_repos\CS3113\Platformer\Map.cpp(94,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\limje\Desktop\_repos\CS3113\Platformer\Map.cpp(95,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Menu.cpp
+C:\Users\limje\Desktop\_repos\CS3113\Platformer\Entity.h(119,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\limje\Desktop\_repos\CS3113\Platformer\Entity.h(120,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\limje\Desktop\_repos\CS3113\Platformer\Menu.cpp(81,98): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\limje\Desktop\_repos\CS3113\Platformer\Menu.cpp(82,103): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\limje\Desktop\_repos\CS3113\Platformer\Menu.cpp(83,93): warning C4305: 'argument': truncation from 'double' to 'float'
+  Scene.cpp
+C:\Users\limje\Desktop\_repos\CS3113\Platformer\Entity.h(119,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+C:\Users\limje\Desktop\_repos\CS3113\Platformer\Entity.h(120,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  ShaderProgram.cpp
+  Utility.cpp
+C:\Users\limje\Desktop\_repos\CS3113\Platformer\Utility.cpp(48,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  SDLSimple.vcxproj -> C:\Users\limje\Desktop\_repos\CS3113\Platformer\Debug\Rise of the AI.exe
